@@ -32,5 +32,5 @@ I am a web developer based in Bangladesh, transitioning from English Literature 
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true" alt="Ruhit's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ruhit1000&show_icons=true&theme=transparent&hide_border=true" alt="Ruhit's GitHub Stats" />
 </div>
