@@ -1,16 +1,36 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Ruhit%20Paul&fontSize=70&animation=fadeIn" width="100%" alt="Ruhit Paul Banner"/>
+</div>
 
-<!--
-**ruhit1000/ruhit1000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Ruhit Paul 👋
 
-Here are some ideas to get you started:
+**Aspiring Full-Stack Engineer**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a web developer based in Bangladesh, transitioning from English Literature at Comilla University to software engineering. I specialize in building responsive, user-centric applications using modern web technologies. 
+
+### 🚀 About Me
+
+- 🔭 **Currently working on:** Expanding my frontend portfolio with React.js (recent projects include the **Travellian** booking platform and **DigiTools**).
+- 🌱 **Currently learning:** Advanced full-stack development, Next.js, and competitive programming.
+- 🏆 **Achievements:** Hult Prize Semi-finalist (2026).
+- 💬 **Ask me about:** React state management, Tailwind CSS, and DOM manipulation.
+- ⚡ **Fun fact:** I enjoy analyzing classic literature, optimizing old laptop hardware, and aspiring to work remotely as a digital nomad.
+
+### 💻 Tech Stack
+
+- **Languages:** JavaScript (ES6+), HTML5, CSS3
+- **Frameworks & Libraries:** React.js, Next.js, Tailwind CSS
+- **Tools:** Git, GitHub, Vite, DOM Manipulation, Axios
+
+### 📂 Featured Projects
+
+* **Travellian:** A modern travel booking platform built with React.js and Vite.
+* **DigiTools Platform:** A web application utilizing React hooks and asynchronous data fetching.
+* **BPL-Dream-11:** A team-building interactive website focusing on state lifting and API integrations.
+* **G3 Architects:** A mobile-first, responsive landing page emphasizing structural precision.
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true" alt="Ruhit's GitHub Stats" />
+</div>
