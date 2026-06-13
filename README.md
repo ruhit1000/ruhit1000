@@ -31,13 +31,11 @@ I am a web developer based in Bangladesh, dedicated to engineering secure, highl
   * **Tech Stack:** React.js/Next.js, Node.js, Express.js, MongoDB, Stripe, Recharts, Tailwind CSS
 
 * **[MediQueue - Tutor Booking System](https://github.com/ruhit1000/mediqueue)**
-  *(Developed in accordance with the project criteria outlined in **Assignment Category_ CAT_02.pdf**)*
   A full-stack web application designed to automate academic scheduling and eliminate time-slot conflicts. It handles real-time slot limitations, auto-decrements slot availability upon booking, and includes comprehensive admin options to update or cancel sessions.
-  * **Core Features:** Secure JWT authentication on private routes, case-insensitive regex search with date range filters ($gte, $lte), and a custom global dark/light theme toggle.
+  * **Core Features:** Secure JWT authentication on private routes, case-insensitive regex search and a custom global dark/light theme toggle.
   * **Tech Stack:** React.js, Tailwind CSS, Node.js, Express.js, MongoDB, JWT
 
 * **[Book Borrowing Platform](https://github.com/ruhit1000/book-borrowing-platform)**
-  *(Developed in accordance with the project criteria outlined in **Category-A8-Mango.pdf**)*
   A modern, high-performance web application designed to digitize the traditional library experience. Users can browse a live-rendered array of books, utilize a functional left-sidebar category filter, and handle secure digital checkouts.
   * **Core Features:** Modern authentication with BetterAuth, custom profile interfaces with real-time text/image data editing, and responsive card carousels.
   * **Tech Stack:** Next.js, Tailwind CSS, DaisyUI/HeroUI, BetterAuth, MongoDB
