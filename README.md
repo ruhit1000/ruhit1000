@@ -20,17 +20,17 @@ I specialize in building secure, highly scalable, and logic-heavy web applicatio
 
 ### 📂 Featured Engineering Projects
 
-#### [HireLoop - Modern ATS & Job Portal](https://github.com/ruhit1000)
+#### [HireLoop - Modern ATS & Job Portal](https://github.com/ruhit1000/hireloop-client)
 A comprehensive job marketplace featuring dynamic applicant tracking and subscription-based usage constraints.
 *   **Architecture:** Leverages Next.js parallel route mechanics and seamless client-to-server filter handshakes via pathname query injection.
 *   **Key Features:** Automated company verification flows, role-based access control, and tiered Stripe subscription tiers monitored via deep webhook integration.
 
-#### [Gym Buddy - Elite Performance Platform](https://b13-a10-frontend.vercel.app/)
+#### [Gym Buddy - Elite Performance Platform](https://gym-buddy-client.vercel.app/)
 A high-performance orchestration tool for session tracking, automated scheduling, and multi-tenant management.
 *   **Architecture:** Implements server-driven pagination and complex MongoDB aggregation pipelines for real-time velocity tracking and unified analytical overviews.
 *   **Key Features:** Guarded checkout pipelines to prevent duplicate purchases, advanced text search via MongoDB `$regex`, and active user soft-blocking mechanisms.
 
-#### [MediQueue - Real-Time Booking Engine](https://github.com/ruhit1000/mediqueue)
+#### [MediQueue - Real-Time Booking Engine](https://mediqueue-sage.vercel.app/)
 A scheduling platform automating academic time-slots and preventing calendar conflicts.
 *   **Architecture:** Built on Next.js utilizing the App Router and Server Actions[cite: 2].
 *   **Key Features:** Real-time inventory handler that auto-decrements available slots upon booking, role-based interactive dashboards, and instant visual feedback loops[cite: 2].
