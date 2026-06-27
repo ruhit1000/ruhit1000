@@ -4,43 +4,43 @@
 
 # Hi there, I'm Ruhit Paul 👋
 
-**Aspiring Full-Stack Engineer**
+**Full-Stack Software Engineer**
 
-I am a web developer based in Bangladesh, dedicated to engineering secure, highly scalable, and logic-heavy full-stack web applications. I specialize in crafting role-based management systems and data-driven user experiences. 
+I specialize in building secure, highly scalable, and logic-heavy web applications. I excel in engineering multi-tenant architectures, crafting advanced data aggregation pipelines, and deploying robust payment integrations.
 
-### 🚀 About Me
+### 💻 Core Tech Stack
 
-- 🔭 **Currently working on:** Building advanced SaaS portals, role-based dashboards, and optimizing application workflows.
-- 🌱 **Currently learning:** Advanced architecture in Next.js, robust multi-role authentication systems (BetterAuth/JWT), and competitive programming.
-- 🏆 **Achievements:** Hult Prize Semi-finalist at Cumilla University (2026).
-- 💬 **Ask me about:** React state management, Next.js routing, MongoDB indexing, complex dashboard logic, and Stripe integration.
-- ⚡ **Fun fact:** I enjoy optimizing old laptop hardware, analyzing codebases for maximum efficiency, and designing logic-heavy backend architectures.
+*   **Frontend:** Next.js (App Router), React.js, Tailwind CSS, HeroUI, Framer Motion
+*   **Backend:** Node.js, Express.js, REST APIs, Next.js Server Actions[cite: 2]
+*   **Database:** MongoDB (Advanced Aggregation Pipelines, `$facet`, Native Driver)
+*   **Auth & Security:** BetterAuth, JWT, Middleware Enforcement
+*   **Integrations:** Stripe (Checkout & Webhooks), Recharts
 
-### 💻 Tech Stack
+---
 
-- **Languages:** JavaScript (ES6+), HTML5, CSS3
-- **Frameworks & Libraries:** React.js, Next.js, Node.js, Express.js
-- **Databases & Auth:** MongoDB, JWT, BetterAuth
-- **Payment & UI Tools:** Stripe Integration, Tailwind CSS, DaisyUI/HeroUI, Vite
+### 📂 Featured Engineering Projects
 
-### 📂 Featured Projects
+#### [HireLoop - Modern ATS & Job Portal](https://github.com/ruhit1000)
+A comprehensive job marketplace featuring dynamic applicant tracking and subscription-based usage constraints.
+*   **Architecture:** Leverages Next.js parallel route mechanics and seamless client-to-server filter handshakes via pathname query injection.
+*   **Key Features:** Automated company verification flows, role-based access control, and tiered Stripe subscription tiers monitored via deep webhook integration.
 
-* **[HireLoop - The Modern Job Hunting Portal](https://github.com/ruhit1000)** (Full-Stack)
-  A comprehensive job marketplace providing distinct end-to-end workflows for three separate user roles: **Seekers**, **Recruiters**, and **Admins**. Features dynamic responsive dashboards, full-text job search with complex sidebar filtering, automated company verification flows, and interactive analytics charts utilizing Recharts.
-  * **Core Features:** Tiered subscription structures for both seekers and recruiters, automated job-post usage capping, and secure Stripe payment integration with transaction logging.
-  * **Tech Stack:** React.js/Next.js, Node.js, Express.js, MongoDB, Stripe, Recharts, Tailwind CSS
+#### [Gym Buddy - Elite Performance Platform](https://b13-a10-frontend.vercel.app/)
+A high-performance orchestration tool for session tracking, automated scheduling, and multi-tenant management.
+*   **Architecture:** Implements server-driven pagination and complex MongoDB aggregation pipelines for real-time velocity tracking and unified analytical overviews.
+*   **Key Features:** Guarded checkout pipelines to prevent duplicate purchases, advanced text search via MongoDB `$regex`, and active user soft-blocking mechanisms.
 
-* **[MediQueue - Tutor Booking System](https://github.com/ruhit1000/mediqueue)**
-  A full-stack web application designed to automate academic scheduling and eliminate time-slot conflicts. It handles real-time slot limitations, auto-decrements slot availability upon booking, and includes comprehensive admin options to update or cancel sessions.
-  * **Core Features:** Secure JWT authentication on private routes, case-insensitive regex search and a custom global dark/light theme toggle.
-  * **Tech Stack:** React.js, Tailwind CSS, Node.js, Express.js, MongoDB, JWT
+#### [MediQueue - Real-Time Booking Engine](https://github.com/ruhit1000/mediqueue)
+A scheduling platform automating academic time-slots and preventing calendar conflicts.
+*   **Architecture:** Built on Next.js utilizing the App Router and Server Actions[cite: 2].
+*   **Key Features:** Real-time inventory handler that auto-decrements available slots upon booking, role-based interactive dashboards, and instant visual feedback loops[cite: 2].
 
-* **[Book Borrowing Platform](https://github.com/ruhit1000/book-borrowing-platform)**
-  A modern, high-performance web application designed to digitize the traditional library experience. Users can browse a live-rendered array of books, utilize a functional left-sidebar category filter, and handle secure digital checkouts.
-  * **Core Features:** Modern authentication with BetterAuth, custom profile interfaces with real-time text/image data editing, and responsive card carousels.
-  * **Tech Stack:** Next.js, Tailwind CSS, DaisyUI/HeroUI, BetterAuth, MongoDB
-    
-### 📈 GitHub Stats
+---
+
+### 🚀 Current Focus & Milestones
+
+*   **Learning:** Advanced caching strategies, competitive programming, and micro-interactions.
+*   **Achievements:** Hult Prize Semi-finalist at Cumilla University (2026).
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruhit1000&theme=transparent&hide_border=true" alt="Ruhit's GitHub Streak" />
